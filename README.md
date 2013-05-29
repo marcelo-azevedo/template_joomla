@@ -1,0 +1,1 @@
+Fetch pra estrutura do template do Joomla
